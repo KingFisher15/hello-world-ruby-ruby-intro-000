@@ -11,3 +11,4 @@ puts "Hello world"
     load './hello_world.rb'
   end
 end
+puts "Hello World!"
