@@ -10,4 +10,3 @@ puts "Hello world"
     expect($stdout).to receive(:puts).with("Hello World!")
     load './hello_world.rb'
   end
-puts "Hello World!"
